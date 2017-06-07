@@ -1,0 +1,3 @@
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-功能\新老王-屏蔽线圈\新老王-屏蔽线圈\新老王-屏蔽线圈\bin\Debug\Drawings EloBuddy.exe.config
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-功能\新老王-屏蔽线圈\新老王-屏蔽线圈\新老王-屏蔽线圈\obj\Debug\Drawings EloBuddy.exe
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-功能\新老王-屏蔽线圈\新老王-屏蔽线圈\新老王-屏蔽线圈\obj\Debug\Drawings EloBuddy.pdb

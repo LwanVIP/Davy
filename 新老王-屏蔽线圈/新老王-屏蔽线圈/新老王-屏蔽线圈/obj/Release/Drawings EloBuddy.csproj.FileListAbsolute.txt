@@ -1,0 +1,36 @@
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\Drawings EloBuddy.exe.config
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\Drawings EloBuddy.exe
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\Drawings EloBuddy.pdb
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\EloBuddy.dll
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\EloBuddy.SDK.dll
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\SharpDX.dll
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\obj\Release\Drawings EloBuddy.exe
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\obj\Release\Drawings EloBuddy.pdb
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\obj\Release\Drawings EloBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Şopar Kızan\Desktop\Drawings EloBuddy\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\Drawings EloBuddy.exe.config
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\Drawings EloBuddy.exe
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\Drawings EloBuddy.pdb
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\EloBuddy.dll
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\EloBuddy.SDK.dll
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\SharpDX.dll
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\obj\Release\Drawings EloBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\obj\Release\Drawings EloBuddy.exe
+C:\Users\Şopar Kızan\Desktop\Yeni klasör (4)\Drawings EloBuddy\obj\Release\Drawings EloBuddy.pdb
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\Drawings EloBuddy.exe.config
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\Drawings EloBuddy.exe
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\Drawings EloBuddy.pdb
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\EloBuddy.dll
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\EloBuddy.SDK.dll
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\SharpDX.dll
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Yedek\Desktop\Drawings EloBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yedek\Desktop\Drawings EloBuddy\obj\Release\Drawings EloBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Yedek\Desktop\Drawings EloBuddy\obj\Release\Drawings EloBuddy.exe
+C:\Users\Yedek\Desktop\Drawings EloBuddy\obj\Release\Drawings EloBuddy.pdb
