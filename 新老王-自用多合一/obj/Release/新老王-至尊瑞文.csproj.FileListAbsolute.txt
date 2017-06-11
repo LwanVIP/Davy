@@ -1,0 +1,14 @@
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\新老王_自用系列.exe.config
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\新老王_自用系列.exe
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\新老王_自用系列.pdb
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\EloBuddy.dll
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\EloBuddy.SDK.dll
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\SharpDX.Direct3D9.dll
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\SharpDX.dll
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\Newtonsoft.Json.dll
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\bin\Release\EloBuddy.Sandbox.dll
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\obj\Release\新老王-至尊瑞文.csprojResolveAssemblyReference.cache
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\obj\Release\新老王_自用系列.Properties.Resources.resources
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\obj\Release\新老王-至尊瑞文.csproj.GenerateResource.Cache
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\obj\Release\新老王_自用系列.exe
+K:\EB\老王汉化\老王汉化-脚本\EB【VIP】脚本★非移植脚本★\新老王-英雄\新老王-加载器\新老王-自用系列V3\obj\Release\新老王_自用系列.pdb
