@@ -1,4 +1,4 @@
-﻿namespace 花边_基础菜单汉化
+﻿namespace 新老王_中文库
 {
     using EloBuddy.SDK.Events;
 
