@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace 花边_基础菜单汉化.Properties {
+namespace 新老王_中文库.Properties {
     using System;
     
     
