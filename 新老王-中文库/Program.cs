@@ -434,7 +434,7 @@
             if (!Loading.IsLoadingComplete)
             {
                 Line.DrawLine(Color.DeepSkyBlue, 50, new Vector2(0, Drawing.Height / 2.00f), new Vector2(Drawing.Width, Drawing.Height / 2.00f));
-                Drawing.DrawText(Drawing.Width / 3.5f, Drawing.Height / 2.01f, System.Drawing.Color.Black, "新老王-自用系列     交流群：579047511，入会100，即可享受最全面的自用系列，欢迎你的加入!", 38);
+                Drawing.DrawText(Drawing.Width / 3.5f, Drawing.Height / 2.01f, System.Drawing.Color.Black, "          新老王-自用系列     交流群：579047511，入会100，即可享受最全面的自用系列，欢迎你的加入!", 38);
             }
         }
     }
